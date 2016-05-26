@@ -1,2 +1,9 @@
 # Purrr
-Purrr! a full featured HTML5 version of Scratch with (hopefully) all of the existing features of Scratch!
+
+- [x] Get The Files
+- [x] Get Github Ready
+- [x] Get Hosting Ready
+- [ ] Get Domain Name Ready
+- [ ] Make Logo
+- [ ] Convert to HTML5
+- [ ] Upload to server
